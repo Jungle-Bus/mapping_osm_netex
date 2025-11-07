@@ -6,7 +6,7 @@
 
 OpenStreetMap (OSM) est un projet collaboratif de cartographie en ligne qui vise à constituer une base de données géographiques libre du monde. OpenStreetMap est souvent présenté comme le Wikipédia des cartes. Les données de transport, de cheminement piéton et d'accessibilité y sont représentées sur certains territoires.
 
-Ce document propose une standardisation de la conversion des éléments et attributs d'OpenStreetMap vers NeTEx. Il s'appuie sur le profil français en vigueur à la date de publication du document / à paraitre prochainement (TODO), et plus particulièrement :
+Ce document propose une standardisation de la conversion des éléments et attributs d'OpenStreetMap vers NeTEx. Il s'appuie sur le profil français et plus particulièrement :
 
 - le [Profil NeTEx accessibilité France](https://normes.transport.data.gouv.fr/normes/netex/accessibilite/)
 - le [Profil France - Description des arrêts](https://normes.transport.data.gouv.fr/normes/netex/arrets/)
@@ -18,7 +18,7 @@ Le modèle attributaire d'OpenStreetMap est communautaire : il se construit au g
 
 Par ailleurs, les données OpenStreetMap sont mises à disposition gratuitement par la fondation OpenStreetMap sous la licence libre ODbL. Des conditions s'appliquent lors de l'utilisation et de la conversion de ces données vers NeTEx, ainsi que sur les fichiers ainsi produits.
 
-Ce guide de conversion n'a pas vocation à être exhaustif dans sa couverture de NeTEx ou d'OpenStreetMap, mais s'efforce de couvrir les objets les plus importants concernant l'accessibilité.
+Ce guide de conversion n'a pas vocation à être exhaustif dans sa couverture de NeTEx ou d'OpenStreetMap, mais s'efforce de couvrir les objets les plus importants concernant l'accessibilité et les cheminements à pied.
 
 ## Liens utiles
 

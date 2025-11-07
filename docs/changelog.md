@@ -7,12 +7,19 @@ La version actuelle de cette documentation est basée sur :
 * le [profil NeTEx France](https://normes.transport.data.gouv.fr/normes/netex/), future version 2.4
 * les règles utilisées par la communauté OpenStreetMap au moment de la rédaction du document, voir notamment la page [Cheminements piétons](https://wiki.openstreetmap.org/wiki/FR:Cheminements_pi%C3%A9tons).
 
+Modifications apportées par rapport à la version précédente :
+
+* migration de la documentation vers l'espace de travail partagé : [https://github.com/Jungle-Bus/mapping_osm_netex](https://github.com/Jungle-Bus/mapping_osm_netex)
+* utilisation de la nouvelle structure de l'export NeTEx préconisée par le profil
+* ajout des attributs suivants, intégrés au profil depuis la version 2.4 :
+    - CrossingEquipment/MarkingStatus
+    - CrossingEquipment/BollardCrossing
 
 ## Versions précédentes
 
 ### janvier 2025
 
-[Règles de conversion « OSM-NeTEx », version 1.1](https://github.com/Jungle-Bus/mapping_osm_netex/releases/download/v1.1/JungleBus_AccesLibreMobilites_ReglesConversion_OSM-NeTEx_1.1.pdf), publiées par Jungle Bus et basées sur le Profil NeTEx Français en vigueur en janvier 2025.
+[Règles de conversion « OSM-NeTEx », version 1.1](https://github.com/Jungle-Bus/mapping_osm_netex/releases/download/v1.1/JungleBus_AccesLibreMobilites_ReglesConversion_OSM-NeTEx_1.1.pdf), publiées par Jungle Bus et basées sur le Profil NeTEx Français en version 2.3.
 
 Modifications apportées :
 
