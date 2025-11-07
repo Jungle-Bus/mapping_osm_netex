@@ -1,0 +1,30 @@
+site_name: Mapping OSM NeTEx
+site_url: https://jungle-bus.github.io/mapping_osm_netex
+repo_url: https://github.com/Jungle-Bus/mapping_osm_netex
+repo_name: mapping_osm_netex
+site_author: nlehuby (Jungle Bus)
+
+plugins:
+  - search
+  - privacy
+
+extra:
+  consent:
+    actions:
+      - accept
+      - reject
+      - manage
+
+markdown_extensions:
+  - admonition
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.indexes
+    - navigation.footer
+  palette:
+    scheme: default
+    primary: indigo
+    accent: amber

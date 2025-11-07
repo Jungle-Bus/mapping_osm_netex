@@ -1,0 +1,9 @@
+[project]
+name = "mapping-osm-netex"
+version = "0.1.0"
+description = "osm netex mapping rules"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.6.21",
+]
