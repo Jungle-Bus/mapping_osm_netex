@@ -216,6 +216,12 @@ uniquement si AccessFeatureType vaut crossing ou elevator. L'attribut
 prend alors la même valeur que CrossingEquipment/AcousticCrossingAids ou
 LiftEquipment/AudioAnnouncements.
 
+**AccessibilityLimitation/TactileGuidanceAvailable** est construit à 
+partir de la valeur du tag [tactile_paving](https://wiki.openstreetmap.org/wiki/FR:Key:tactile_paving) :
+
+- true si tactile_paving=yes/contrasted
+- false si tactile_paving=no
+
 #### SitePathLink/Covered
 
 SitePathLink/Covered est construit avec les règles de gestion suivantes

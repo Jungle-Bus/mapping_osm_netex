@@ -14,6 +14,7 @@ Modifications apportées par rapport à la version précédente :
 * ajout des attributs suivants, intégrés au profil depuis la version 2.4 :
     - CrossingEquipment/MarkingStatus
     - CrossingEquipment/BollardCrossing
+    - AccessibilityLimitation/TactileGuidanceAvailable
 
 ## Versions précédentes
 
@@ -21,7 +22,7 @@ Modifications apportées par rapport à la version précédente :
 
 [Règles de conversion « OSM-NeTEx », version 1.1](https://github.com/Jungle-Bus/mapping_osm_netex/releases/download/v1.1/JungleBus_AccesLibreMobilites_ReglesConversion_OSM-NeTEx_1.1.pdf), publiées par Jungle Bus et basées sur le Profil NeTEx Français en version 2.3.
 
-Modifications apportées :
+Modifications apportées par rapport à la version précédente :
 
 - Ajout et corrections sur les éléments suivants, suite à [la proposition de nouveaux tags OSM sur les dimensions des ascenseurs](https://wiki.openstreetmap.org/wiki/Proposal:Elevator_dimensions), adoptée en mars 2024 :
     - LiftEquipment/Depth
