@@ -1,16 +1,16 @@
 # Suivi des modifications
 
-Cette documentation est un brouillon.
+La version actuelle de cette documentation a été publiée en mars 2026 par [Jungle Bus](https://junglebus.io/).
 
-La version actuelle de cette documentation est basée sur :
+Elle basée sur :
 
-* le [profil NeTEx France](https://normes.transport.data.gouv.fr/normes/netex/), future version 2.4
+* le [profil NeTEx France](https://normes.transport.data.gouv.fr/normes/netex/), version 2.4 publiée en mars 2026
 * les règles utilisées par la communauté OpenStreetMap au moment de la rédaction du document, voir notamment la page [Cheminements piétons](https://wiki.openstreetmap.org/wiki/FR:Cheminements_pi%C3%A9tons).
 
 Modifications apportées par rapport à la version précédente :
 
 * migration de la documentation vers l'espace de travail partagé : [https://github.com/Jungle-Bus/mapping_osm_netex](https://github.com/Jungle-Bus/mapping_osm_netex)
-* utilisation de la nouvelle structure de l'export NeTEx préconisée par le profil
+* utilisation de la nouvelle structure de l'export NeTEx préconisée par le profil depuis la version 2.4
 * ajout des attributs suivants, intégrés au profil depuis la version 2.4 :
     - CrossingEquipment/MarkingStatus
     - CrossingEquipment/BollardCrossing

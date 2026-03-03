@@ -1,9 +1,5 @@
 # Aide à la conversion des attributs OpenStreetMap vers NeTEx
 
-!!! warning "Attention"
-
-    Cette documentation est un brouillon temporaire basée sur la version à paraitre du profil NeTEx. En attendant sa finalisation, voici [la dernière version publiée](https://github.com/Jungle-Bus/mapping_osm_netex/releases/download/v1.1/JungleBus_AccesLibreMobilites_ReglesConversion_OSM-NeTEx_1.1.pdf).
-
 OpenStreetMap (OSM) est un projet collaboratif de cartographie en ligne qui vise à constituer une base de données géographiques libre du monde. OpenStreetMap est souvent présenté comme le Wikipédia des cartes. Les données de transport, de cheminement piéton et d'accessibilité y sont représentées sur certains territoires.
 
 Ce document propose une standardisation de la conversion des éléments et attributs d'OpenStreetMap vers NeTEx. Il s'appuie sur le profil français et plus particulièrement :
