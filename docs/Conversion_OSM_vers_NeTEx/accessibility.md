@@ -973,6 +973,10 @@ LiftEquipment/PublicCode est rempli avec la valeur du tag OSM
 [ref](https://wiki.openstreetmap.org/wiki/FR:Key:ref) ou à défaut
 [local_ref](https://wiki.openstreetmap.org/wiki/Key%3Alocal_ref).
 
+#### LiftEquipment/Width
+
+LiftEquipment/Width est rempli avec la valeur du tag [door:width](https://wiki.openstreetmap.org/wiki/FR%3AKey%3Adoor%3Awidth), en mètres arrondis au cm.
+
 #### LiftEquipment/Depth
 
 LiftEquipment/Depth est rempli avec le premier tag suivant rencontré, en

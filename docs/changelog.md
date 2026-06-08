@@ -1,11 +1,21 @@
 # Suivi des modifications
 
-La version actuelle de cette documentation a été publiée en mars 2026 par [Jungle Bus](https://junglebus.io/).
+La version actuelle de cette documentation est un brouillon en attente de publication par [Jungle Bus](https://junglebus.io/).
 
 Elle basée sur :
 
 * le [profil NeTEx France](https://normes.transport.data.gouv.fr/normes/netex/), version 2.4 publiée en mars 2026
 * les règles utilisées par la communauté OpenStreetMap au moment de la rédaction du document, voir notamment la page [Cheminements piétons](https://wiki.openstreetmap.org/wiki/FR:Cheminements_pi%C3%A9tons).
+
+Modifications apportées par rapport à la version précédente :
+
+* ajout de l'attribut LiftEquipment/Width
+
+## Versions précédentes
+
+### mars 2026
+
+[Version 1.3](https://github.com/Jungle-Bus/mapping_osm_netex/releases/tag/v1.3), publiée en mars 2026 par Jungle Bus, basée sur la version 2.4 du profil NeTEx France (publié en mars 2026).
 
 Modifications apportées par rapport à la version précédente :
 
@@ -15,8 +25,6 @@ Modifications apportées par rapport à la version précédente :
     - CrossingEquipment/MarkingStatus
     - CrossingEquipment/BollardCrossing
     - AccessibilityLimitation/TactileGuidanceAvailable
-
-## Versions précédentes
 
 ### janvier 2025
 
